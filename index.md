@@ -4,3 +4,5 @@
 ```javascript
 const test = "hello"
 ```
+- [ ] Commit
+- [ ] Complete Challenge
